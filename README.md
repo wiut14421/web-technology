@@ -5,6 +5,7 @@ This website is useful for education of English Language. There you can buy lang
 
 #Project links
 https://github.com/wiut14421/web-technology.git
+https://keen-leakey-56d6bd.netlify.app/
 
 #Pages
 There are 6 pages;
