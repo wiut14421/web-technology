@@ -5,7 +5,7 @@ This website is useful for education of English Language. There you can buy lang
 
 #Project links
 https://github.com/wiut14421/web-technology.git
- my site link https://www11415educentre.netlify.app/
+ my site link https://00014421webcw.netlify.app/
 
 #Pages
 There are 6 pages;
